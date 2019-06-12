@@ -1,6 +1,6 @@
 # 2019-07-oma
 
-We are planning to hold a joint meeting between OMA SpecWorks (two groups, namely the device management & service enablement (DMSE) working group and the IPSO working group) and interested participants of the IETF/IRTF. 
+We will have a joint meeting between OMA SpecWorks (two groups, namely the device management & service enablement (DMSE) working group and the IPSO working group) and interested participants of the IETF/IRTF. 
 
 ## Location
 
@@ -13,6 +13,20 @@ Location: [Ericsson Montreal](https://www.ericsson.com/en/about-us/company-facts
 For logistical reason please let us know whether you are interested to participate:
 https://doodle.com/poll/z6e8kzeke9r9bdyh
  
-## Agenda
+## Draft Agenda
 
-The agenda will be very much like the one we put together for the [joint IETF/OMA conference call](https://github.com/t2trg/2019-02-oma) earlier this year where we talked about IETF drafts that are utilized by LwM2M.  A detailed agenda will be distributed in time for the meeting.
+For the afternoon "unconference-style" discussion all meeting participants can suggest topics for discussion and we select the most popular topics with 30 min slots each. If you would like to suggest a topic, please send email to the [T2TRG chairs](mailto:t2trg-chairs@irtf.org).
+
+| Time    | Topic |
+|---------|-------|
+| 09:00   | Tutorial about LwM2M with focus on the latest release (v1.1.1)
+| 10:00   | LwM2M v1.2 requirements and IETF document dependencies
+| 10:30   | Coffee break
+| 11:00   | Testfests, OMNA registry, Public Github repo, OMA membership policy
+| 11:30   | Lunch break
+| 13:00   | OMA-IETF specification dependencies. Examples: CoRE Dynlink, CoRE Resource Directory, CoAP over SMS, dev-URN draft, SenML registry
+| 14:30   | Coffee break
+| 15:00   | "Unconference-style" discussions                                               
+| 17:00   | Conclusion and next steps
+| 17:30   | End of meeting
+| 19:00   | Group dinner

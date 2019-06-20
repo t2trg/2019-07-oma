@@ -24,9 +24,24 @@ For the afternoon "unconference-style" discussion all meeting participants can s
 | 10:30   | Coffee break
 | 11:00   | Testfests, OMNA registry, Public Github repo, OMA membership policy
 | 11:30   | Lunch break
-| 13:00   | OMA-IETF specification dependencies. Examples: CoRE Dynlink, CoRE Resource Directory, CoAP over SMS, dev-URN draft, SenML registry
+| 13:00   | OMA-IETF specification dependencies (see list of proposed topics below)
 | 14:30   | Coffee break
-| 15:00   | "Unconference-style" discussions                                               
+| 15:00   | "Unconference-style" discussions (see list of proposed topics below)                                             
 | 17:00   | Conclusion and next steps
 | 17:30   | End of meeting
 | 19:00   | Group dinner
+
+### OMA IETF specification dependencies
+
+* CoRE Dynlink
+* CoRE Resource Directory
+* CoAP over SMS
+* dev-URN draft
+* SenML registry
+
+### Unconference discussion proposed topics
+
+- Data model convergence
+- Security approaches: commonalities and differences
+- Access control modeling
+- Role of hypermedia formats (CoRE link format, CoRAL) in LwM2M

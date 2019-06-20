@@ -24,9 +24,9 @@ For the afternoon "unconference-style" discussion all meeting participants can s
 | 10:30   | Coffee break
 | 11:00   | Testfests, OMNA registry, Public Github repo, OMA membership policy
 | 11:30   | Lunch break
-| 13:00   | OMA-IETF specification dependencies (see list of proposed topics below)
+| 13:00   | OMA-IETF specification dependencies (see list of proposed topics [below](#oma-ietf-specification-dependencies))
 | 14:30   | Coffee break
-| 15:00   | "Unconference-style" discussions (see list of proposed topics below)                                             
+| 15:00   | "Unconference-style" discussions (see list of proposed topics [below](#unconference-discussion-proposed-topics))                                             
 | 17:00   | Conclusion and next steps
 | 17:30   | End of meeting
 | 19:00   | Group dinner

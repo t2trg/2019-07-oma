@@ -10,9 +10,8 @@ Location: [Ericsson Montreal](https://www.ericsson.com/en/about-us/company-facts
 
 ## Registration
 
-For logistical reason please let us know whether you are interested to participate:
-https://doodle.com/poll/z6e8kzeke9r9bdyh
- 
+Due to limited seating in the meeting room the registration has closed. If you would still like to join, please contact the [T2TRG chairs](mailto:t2trg-chairs@irtf.org).
+
 ## Draft Agenda
 
 For the afternoon "unconference-style" discussion all meeting participants can suggest topics for discussion and we select the most popular topics with 30 min slots each. If you would like to suggest a topic, please send email to the [T2TRG chairs](mailto:t2trg-chairs@irtf.org).

@@ -4,9 +4,11 @@ We will have a joint meeting between OMA SpecWorks (two groups, namely the devic
 
 ## Location
 
-Time: Friday, July 19th (the Friday before the IETF Hackathon/IETF 105 meeting)
+Time: Friday, July 19th, (the Friday before the IETF Hackathon/IETF 105 meeting), 9:00-17:30
 
 Location: [Ericsson Montreal](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/canada) office. 8275 Route Transcanadienne, Saint-Laurent, Quebec H4S-0B6.
+
+The first entrance from the street. Come to the reception to collect your badges. Meeting room Hanna (between the canteen and reception).
 
 ## Registration
 

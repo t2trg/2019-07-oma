@@ -37,10 +37,10 @@ For the afternoon "unconference-style" discussion all meeting participants can s
 | 15:00   | "Unconference-style" discussions (see list of proposed topics [below](#unconference-discussion-proposed-topics)) | All                                           
 | 17:40   | Conclusion and next steps | All
 | 18:00   | End of meeting
-| 19:00   | Group dinner
+| 20:00   | Group dinner
 
 
-BIER MARKT - MONTREAL, 1221 René-Lévesque Blvd W, Montreal, Quebec. H3G 1T1
+Dinner at: BIER MARKT - MONTREAL, 1221 René-Lévesque Blvd W, Montreal, Quebec. H3G 1T1
 
 https://www.thebiermarkt.com/en/locations/montreal.html
 

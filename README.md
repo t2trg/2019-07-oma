@@ -10,6 +10,10 @@ Location: [Ericsson Montreal](https://www.ericsson.com/en/about-us/company-facts
 
 The first entrance from the street. Come to the reception to collect your badges. Meeting room Hanna (between the canteen and reception).
 
+# Remote participation
+
+Go To Meeting: https://www.gotomeeting.com/join/713934458
+
 ## Registration
 
 Due to limited seating in the meeting room the registration has closed. If you would still like to join, please contact the [T2TRG chairs](mailto:t2trg-chairs@irtf.org).

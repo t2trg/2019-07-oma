@@ -14,6 +14,8 @@ The first entrance from the street. Come to the reception to collect your badges
 
 Go To Meeting: https://www.gotomeeting.com/join/713934458
 
+Notes: https://hackmd.io/i7b2TpwnT-Ksn9FJk-36tA
+
 ## Registration
 
 Due to limited seating in the meeting room the registration has closed. If you would still like to join, please contact the [T2TRG chairs](mailto:t2trg-chairs@irtf.org).

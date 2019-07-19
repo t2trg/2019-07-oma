@@ -39,6 +39,14 @@ For the afternoon "unconference-style" discussion all meeting participants can s
 | 17:30   | End of meeting
 | 19:00   | Group dinner
 
+
+BIER MARKT - MONTREAL
+1221 René-Lévesque Blvd W
+Montreal, Quebec. H3G 1T1
+(514) 864-7575
+https://www.thebiermarkt.com/en/locations/montreal.html
+
+
 ### OMA IETF specification dependencies
 
 - CoRE Dynlink

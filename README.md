@@ -35,8 +35,8 @@ For the afternoon "unconference-style" discussion all meeting participants can s
 | 13:00   | OMA-IETF specification dependencies (see list of proposed topics [below](#oma-ietf-specification-dependencies)) | (see below)
 | 14:30   | Coffee break
 | 15:00   | "Unconference-style" discussions (see list of proposed topics [below](#unconference-discussion-proposed-topics)) | All                                           
-| 17:00   | Conclusion and next steps | All
-| 17:30   | End of meeting
+| 17:40   | Conclusion and next steps | All
+| 18:00   | End of meeting
 | 19:00   | Group dinner
 
 

@@ -41,16 +41,19 @@ For the afternoon "unconference-style" discussion all meeting participants can s
 
 ### OMA IETF specification dependencies
 
-* CoRE Dynlink
-* CoRE Resource Directory
-* CoAP over SMS (Carsten et al)
-* dev-URN draft
-* SenML registry (Ari)
+- CoRE Dynlink
+- CoRE Resource Directory
+- CoAP over SMS (Carsten et al)
+- dev-URN draft
+- SenML registry (Ari)
+- Local Basename (Hannes)
 
 ### Unconference discussion proposed topics
 
-- Data model convergence
-- Security approaches: commonalities and differences
-- Access control modeling
-- Role of hypermedia formats (CoRE link format, CoRAL) in LwM2M
-- [Series Transfer Pattern](https://tools.ietf.org/html/draft-bormann-t2trg-stp-01) and LwM2M
+- Data model convergence (Michael) - 9
+- Role of hypermedia formats (CoRE link format, CoRAL) in LwM2M - 10
+- Access control modeling (Carsten) - 5
+- [Series Transfer Pattern](https://tools.ietf.org/html/draft-bormann-t2trg-stp-01) and LwM2M - 5
+- P2P communication (Christian) - 5
+- Security approaches: commonalities and differences - 2
+- Edge computing (Bill) - 1 
